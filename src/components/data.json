@@ -1,0 +1,37 @@
+[{
+        "productName" : "Brazilian Beans",
+        "price" : 16.99
+    },
+    {
+        "productName" : "Colimbian Beans",
+        "price" : 18.99
+    },
+    {
+        "productName" : "Ethiopian Beans",
+        "price" : 16.99
+    },
+    {
+        "productName" : "Brazilian Grounded",
+        "price" : 11.99
+    },
+    {
+        "productName" : "Colimbian Grounded",
+        "price" : 12.99
+    },
+    {
+        "productName" : "Ethiopian Grounded",
+        "price" : 11.99
+    },
+    {
+        "productName" : "Brazilian Instant",
+        "price" : 5.99
+    },
+    {
+        "productName" : "Ethiopian Instant",
+        "price" : 7.99
+    },
+    {
+        "productName" : "Ethiopian Instant",
+        "price" : 6.99
+    }
+]
